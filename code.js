@@ -18,7 +18,9 @@
 **请保证你不会使用这个剪切板，防止数据丢失**
 */
 
-const PASTEID = "u3mnkre6";
+const PASTEID = "";
+
+//示例：const PASTEID = "zpjc302z";
 
 const CURRENT_PROBLEM = "current_problem";
 
